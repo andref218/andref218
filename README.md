@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is André, I'm a Software Developerfocused on building interactive and user-friendly web applications.
+My name is André, I'm a Software Developer focused on building interactive and user-friendly web applications.
 
 <!--
 **andref218/andref218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
