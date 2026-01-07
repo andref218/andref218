@@ -3,7 +3,6 @@
 My name is André, I'm a Software Developer focused on building interactive and user-friendly web applications.
 
 ## 🌐 Check out my Portfolio:  
-[My Portfolio](https://andref218.github.io/3d_portfolio/)
 [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://andref218.github.io/3d_portfolio/)
 
 <!--
