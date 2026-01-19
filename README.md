@@ -56,7 +56,7 @@
 
 <h3 align="left">Portfolio Webiste:</h3>
 <p align="left">
-  <a href="https://github.com/andref218" target="_blank">
+  <a href="https://andref218.github.io/3d_portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
