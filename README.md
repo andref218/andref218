@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Fonseca</h1>
 <h3 align="center">My name is André, I'm a Software Developer focused on building interactive and user-friendly web applications.</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🔭 I’m currently working on [Admin Dashboard](https://github.com/andref218/admin_dashboard)
 
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
 
