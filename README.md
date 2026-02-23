@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=558BFA&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=558BFA&width=435&lines=Hello%2C+I'm+André;Software+Developer" alt="Software Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=558BFA&width=435&lines=Hello%2C+my+name+is+André.;Software+Developer" alt="Software Developer"/>
 </a>
 
 <p>
