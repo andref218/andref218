@@ -45,7 +45,26 @@
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
+  </a>
+  <!-- Node.js -->
+ <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+</a>
+
+  <!-- Express -->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://skillicons.dev/icons?i=express"
+    alt="express"
+    width="40"
+    height="40"
+  />
+</a>
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
