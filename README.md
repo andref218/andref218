@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm André</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=558BFA&height=120&section=header" alt="header"/>
-
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=558BFA&width=435&lines=Hello%2C+my+name+is+André.;Software+Developer" alt="Software Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1A8FD8&width=435&lines=Hello%2C+my+name+is+André.;I'm+a+Software+Developer." alt="Software Developer"/>
 </a>
 
 <p>
-I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work, or playing basketball. 🤓
+I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓
 </p>
 
 
@@ -19,8 +17,9 @@ React • Tailwind CSS • Node.js
 <h2 align="left">🌐 Portfolio</h2>
 
 <p align="left">
+  <strong>Check out my Interactive 3D Portfolio: </strong> &nbsp; 
   <a href="https://andref218.github.io/3d_portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
 
