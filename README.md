@@ -1,17 +1,18 @@
 <h1 align="left">Hi 👋, I'm André</h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A8FD8&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A8FD8&height=120&section=header" alt="header"/>
 
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1A8FD8&width=435&lines=Hello%2C+my+name+is+André.;I'm+a+Software+Developer." alt="Software Developer"/>
-</a>
-
+<div>
+    <img src="./assets/about_andre_fonseca.gif" alt="About Me Terminal GIF"/>
+</div>
 
 <p>
 I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓
 </p>
-
 
 <h3 align="left">
 Frontend-focused Software Developer<br/>
@@ -19,8 +20,6 @@ React • Tailwind CSS • Node.js
 </h3>
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=default)
-
-
 
 <h2 align="left">🌐 Portfolio</h2>
 
@@ -30,7 +29,6 @@ React • Tailwind CSS • Node.js
     <img src="https://img.shields.io/badge/View%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
-
 
 <h2 align="left">🚀 Overview</h2>
 
@@ -57,4 +55,3 @@ React • Tailwind CSS • Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre--Fonseca218-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-fonseca218)
 [![GitHub](https://img.shields.io/badge/GitHub-andref218-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andref218)
-
