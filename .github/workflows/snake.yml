@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_FOR_SNAKE }}
 
       - name: Ensure assets folder exists
         run: mkdir -p assets
@@ -18,7 +20,7 @@ jobs:
         uses: platane/snk@main
         with:
           github_user_name: andref218
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_FOR_SNAKE }}
           outputs: ./assets/github-snake.svg
 
       - name: Commit and push SVG
@@ -27,3 +29,4 @@ jobs:
           commit_message: "Update GitHub Snake"
           branch: main
           file_pattern: "assets/github-snake.svg"
+          github_token: ${{ secrets.PAT_FOR_SNAKE }}
