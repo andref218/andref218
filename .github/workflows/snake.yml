@@ -14,9 +14,9 @@ jobs:
       - name: Generate Snake
         uses: platane/snk@main
         with:
+          github_user_name: andref218
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: andref218
-          output: ./assets/github-snake.svg
+          outputs: ./assets/github-snake.svg
 
       - name: Commit SVG if changed
         run: |
