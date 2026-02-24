@@ -1,6 +1,8 @@
+<h1 align="left">Hi 👋, I'm André</h1>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A8FD8&height=120&section=header" alt="header"/>
 
-<h1 align="left">Hi 👋, I'm André</h1>
+
 
 <p>
 I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. 
