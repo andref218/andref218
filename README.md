@@ -6,9 +6,11 @@
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<div>
+<p align="left">
     <img src="./assets/about_andre_fonseca.gif" alt="About Me Terminal GIF"/>
-</div>
+</p>
+
+<br>
 
 <p>
 I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓
