@@ -18,7 +18,7 @@ Frontend-focused Software Developer<br/>
 React • Tailwind CSS • Node.js
 </h3>
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=default)
 
 
 
