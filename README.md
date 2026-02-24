@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋, I'm André</h1>
 
-<a href="https://git.io/typing-svg">
+<p align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1A8FD8&width=435&lines=Hello%2C+my+name+is+André.;I'm+a+Software+Developer." alt="Software Developer"/>
-</a>
+  </a>
+</p>
 
 <p>
 I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓
