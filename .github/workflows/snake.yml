@@ -1,0 +1,35 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_FOR_SNAKE }}
+
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
+
+      - name: Generate GitHub Snake SVGs
+        uses: platane/snk@main
+        with:
+          github_user_name: andref218
+          github_token: ${{ secrets.PAT_FOR_SNAKE }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push SVGs
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub Snake (light + dark)"
+          branch: main
+          file_pattern: "assets/github-snake.svg assets/github-snake-dark.svg"
+          push_options: "--repo=https://x-access-token:${{ secrets.PAT_FOR_SNAKE }}@github.com/andref218/andref218.git"
