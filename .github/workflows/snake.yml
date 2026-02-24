@@ -1,10 +1,8 @@
 name: Generate GitHub Snake
 
 on:
-  # Corre diariamente à meia-noite UTC
   schedule:
     - cron: "0 0 * * *"
-  # Corre manualmente via "Run workflow"
   workflow_dispatch:
 
 jobs:
@@ -32,4 +30,4 @@ jobs:
           git remote set-url origin https://x-access-token:${PAT}@github.com/andref218/andref218.git
           git add ./assets/github-snake.svg
           git commit -m "Update GitHub Snake" || echo "No changes to commit"
-          git push origin main
+          git push origin snake-workflow
