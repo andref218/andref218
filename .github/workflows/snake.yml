@@ -18,16 +18,12 @@ jobs:
         uses: platane/snk@main
         with:
           github_user_name: andref218
-          github_token: ${{ secrets.PAT_FOR_SNAKE }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: ./assets/github-snake.svg
 
       - name: Commit and push SVG
-        env:
-          PAT: ${{ secrets.PAT_FOR_SNAKE }}
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${PAT}@github.com/andref218/andref218.git
-          git add ./assets/github-snake.svg
-          git commit -m "Update GitHub Snake" || echo "No changes to commit"
-          git push origin snake-workflow
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub Snake"
+          branch: main
+          file_pattern: "assets/github-snake.svg"
