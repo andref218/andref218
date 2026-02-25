@@ -3,16 +3,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=1A8FD8&background=0D1117&center=false&vCenter=true&width=1000&lines=%24+whoami"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=1A8FD8&background=0D1117&center=false&vCenter=true&width=1000&lines=%24+whoami"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=1A8FD8&background=FFFFFF&center=false&vCenter=true&width=1000&lines=%24+whoami"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=1A8FD8&background=FFFFFF&center=false&vCenter=true&width=1000&lines=%24+whoami"
   />
   <img
     width="100%"
     alt="typing header"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=1A8FD8&background=FFFFFF&center=false&vCenter=true&width=1000&lines=%24+whoami"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=1A8FD8&background=FFFFFF&center=false&vCenter=true&width=1000&lines=%24+whoami"
   />
 </picture>
 
