@@ -1,14 +1,25 @@
 <h1 align="left">Hi 👋, I'm André</h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A8FD8&height=120&section=header" alt="header"/>
-
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=1A8FD8&background=0D1117&center=false&vCenter=true&width=1000&lines=%24+whoami"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=1A8FD8&background=FFFFFF&center=false&vCenter=true&width=1000&lines=%24+whoami"
+  />
+  <img
+    width="100%"
+    alt="typing header"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=1A8FD8&background=FFFFFF&center=false&vCenter=true&width=1000&lines=%24+whoami"
+  />
+</picture>
 
 <p>
 I'm a Software Developer with a strong interest in building interactive, user-friendly, and visually engaging web applications. I enjoy transforming ideas and designs into clean, responsive, and intuitive interfaces. 
 <p>Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓</p>
 </p>
-
 
 <h3 align="left">
 Frontend-focused Software Developer<br/>
@@ -59,3 +70,12 @@ React • Tailwind CSS • Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre--Fonseca218-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-fonseca218)
 [![GitHub](https://img.shields.io/badge/GitHub-andref218-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andref218)
+
+<h2 align="left">🐍 GitHub Activity</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+    <img alt="GitHub contribution snake" src="./assets/github-snake.svg">
+  </picture>
+</p>
