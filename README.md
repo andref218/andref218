@@ -51,6 +51,8 @@ React • Tailwind CSS • Node.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
 
+- 📖 I’m currently learning Next.js
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left">
