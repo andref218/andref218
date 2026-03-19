@@ -51,11 +51,10 @@ React • Tailwind CSS • Node.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
 
-- 📖 I’m currently learning Next.js
-
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
