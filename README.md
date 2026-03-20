@@ -47,7 +47,7 @@ React • Tailwind CSS • Node.js
 
 <h2 align="left">🚀 Overview</h2>
 
-- 🔭 I’m currently working on [Admin Dashboard](https://github.com/andref218/admin_dashboard)
+- 🔭 I’m currently working on [Job Application Tracker](https://github.com/andref218/job_application_tracker) in Next.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
 
