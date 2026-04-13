@@ -47,7 +47,7 @@ Next.js • React • Tailwind CSS • Node.js
 
 <h2 align="left">🚀 Overview</h2>
 
-- 🔭 I’m currently working on [Job Application Tracker](https://github.com/andref218/job_application_tracker) in Next.js
+- 🔭 I’m currently working on [Vinyl Collection Dashboard](https://github.com/andref218/vinyl_collector_dashboard) in Next.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
 
