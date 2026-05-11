@@ -22,7 +22,7 @@ I'm a Software Developer with a strong interest in building interactive, user-fr
 </p>
 
 <h3 align="left">
-Frontend-focused Software Developer<br/>
+Full Stack Developer<br/>
 Next.js • React • Tailwind CSS • Node.js
 </h3>
 
