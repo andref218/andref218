@@ -47,9 +47,20 @@ Next.js • React • Tailwind CSS • Node.js
 
 <h2 align="left">🚀 Overview</h2>
 
-- 🔭 I’m currently working on [Vinyl Collection Dashboard](https://github.com/andref218/vinyl_collector_dashboard) in Next.js
+- 🎵 Creator of Vynilz — a platform for vinyl collectors
 
+
+  <a href="https://vynilz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vynilz-1A8FD8?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Vynilz" />
+  </a>
+   <a href="https://github.com/andref218/vynilz-showcase" target="_blank">
+    <img src="https://img.shields.io/badge/Project%20Showcase-GitHub-181717?style=for-the-badge&logo=github" alt="Vynilz Showcase" />
+  </a>
+
+
+- ⚡ Currently exploring modern full-stack development with Next.js and TypeScript
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
+  
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
