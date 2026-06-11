@@ -49,13 +49,24 @@ Next.js • React • Tailwind CSS • Node.js
 
 - 🎵 Creator of Vynilz — a platform for vinyl collectors
 
+    <a href="https://vynilz.com" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Vynilz-1A8FD8?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Vynilz"   />
+    </a>
+     <a href="https://github.com/andref218/vynilz-showcase" target="_blank">
+      <img src="https://img.shields.io/badge/Project%20Showcase-GitHub-181717?style=for-the-badge&logo=github" alt="Vynilz Showcase" />
+    </a>
 
-  <a href="https://vynilz.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Vynilz-1A8FD8?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Vynilz" />
-  </a>
-   <a href="https://github.com/andref218/vynilz-showcase" target="_blank">
-    <img src="https://img.shields.io/badge/Project%20Showcase-GitHub-181717?style=for-the-badge&logo=github" alt="Vynilz Showcase" />
-  </a>
+  Build your collection, unlock achievements, and showcase your favorite records online.
+
+  **Key Features**
+  - Google Authentication
+  - Public collector profiles
+  - Private vinyl collections
+  - Vinyl search powered by Discogs
+  - Achievement and badge system
+  - Featured records
+
+
 
 
 - ⚡ Currently exploring modern full-stack development with Next.js and TypeScript
