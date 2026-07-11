@@ -26,6 +26,8 @@ Full Stack Developer<br/>
 Next.js • React • Tailwind CSS • Node.js
 </h3>
 
+- 🤖 I'm currently Learning AI Engineering — exploring LLMs, AI agents, prompt engineering, RAG, and modern AI frameworks
+
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
@@ -67,9 +69,6 @@ Next.js • React • Tailwind CSS • Node.js
   - Featured records
 
 
-
-
-- 🤖 Currently Learning AI Engineering — exploring LLMs, AI agents, prompt engineering, RAG, and modern AI frameworks
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
   
 
