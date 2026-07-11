@@ -69,7 +69,7 @@ Next.js • React • Tailwind CSS • Node.js
 
 
 
-- ⚡ Currently exploring modern full-stack development with Next.js and TypeScript
+- 🤖 Currently Learning AI Engineering — exploring LLMs, AI agents, prompt engineering, RAG, and modern AI frameworks
 - 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
   
 
