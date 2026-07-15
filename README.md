@@ -30,8 +30,8 @@ I'm a Software Developer passionate about AI Engineering and Full-Stack Developm
 - Python
 
 🚀 Also experienced in:
-- React
 - Next.js
+- React
 - Node.js
 - MongoDB
 
