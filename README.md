@@ -24,6 +24,7 @@ I'm a Software Developer passionate about AI Engineering and Full-Stack Developm
 💻 Building intelligent applications with:
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- Fine-Tuning
 - OpenAI API
 - LangChain
 - Ollama
@@ -76,6 +77,27 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
 
 ---
 
+### Llama 3.2 Customer Support Fine-Tuning 🦙
+
+An end-to-end LLM fine-tuning project that adapts **Meta Llama 3.2 3B Instruct** for customer support conversations using **QLoRA** and **PEFT**. The project covers dataset preparation, supervised fine-tuning, experiment tracking, evaluation, and LoRA adapter export for efficient inference.
+
+<a href="https://github.com/andref218/llama3.2-customer-support-qlora" target="_blank">
+  <img src="https://img.shields.io/badge/Project-GitHub-181717?style=for-the-badge&logo=github" alt="Llama 3.2 Fine-Tuning" />
+</a>
+
+<p></p>
+
+**Key Features**
+- Fine-tuned Meta Llama 3.2 3B Instruct using QLoRA.
+- Parameter-efficient training with PEFT and LoRA adapters.
+- 4-bit quantization using BitsAndBytes.
+- Experiment tracking and evaluation with Weights & Biases.
+
+**Built With**<p>
+- Python • Transformers • TRL • PEFT • QLoRA • BitsAndBytes • Hugging Face • Weights & Biases
+
+---
+
 ###  Vynilz 
 
 A full-stack web application for vinyl collectors to organize, discover, and showcase their collections online.
@@ -117,6 +139,7 @@ A full-stack web application for vinyl collectors to organize, discover, and sho
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre--Fonseca218-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-fonseca218)
 [![GitHub](https://img.shields.io/badge/GitHub-andref218-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andref218)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-andref218-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/andref218)
 
 <h2 align="left">🐍 GitHub Activity</h2>
 <p align="center">
