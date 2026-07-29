@@ -98,7 +98,7 @@ An end-to-end LLM fine-tuning project that adapts **Meta Llama 3.2 3B Instruct**
 
 ---
 
-###  Vynilz 
+###  Vynilz 💿
 
 A full-stack web application for vinyl collectors to organize, discover, and showcase their collections online.
 
