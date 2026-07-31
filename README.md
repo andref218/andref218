@@ -17,11 +17,11 @@
 </picture>
 
 <p>
-I'm a Software Developer passionate about AI Engineering and Full-Stack Development. 
+I'm a Software Developer passionate about <b>AI Engineering</b> and <b>Full-Stack Development</b>. 
 <p>Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓</p>
 </p>
 
-💻 Building intelligent applications with:
+Building intelligent applications with:
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Fine-Tuning
@@ -30,7 +30,7 @@ I'm a Software Developer passionate about AI Engineering and Full-Stack Developm
 - Ollama
 - Python
 
-🚀 Also experienced in:
+Also experienced in:
 - Next.js
 - React
 - Node.js
@@ -44,7 +44,7 @@ Full-Stack Development • AI Engineering
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=default)
 
-<h2 align="left">🌐 Portfolio</h2>
+<h2 align="left">Portfolio 🌐</h2>
 
 <p align="left">
   <strong>Check out my Interactive 3D Portfolio: </strong> &nbsp; 
@@ -53,9 +53,9 @@ Full-Stack Development • AI Engineering
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/andref218](https://github.com/andref218)
+- All of my projects are available at [github.com/andref218](https://github.com/andref218) 
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left">Featured Projects 🚀 </h2>
 
 ###  AI Document Assistant (RAG) 🤖
 
@@ -119,7 +119,7 @@ A full-stack web application for vinyl collectors to organize, discover, and sho
 **Built With**<p>
 - Next.js • React • TypeScript • Tailwind CSS • MongoDB • Auth.js • Discogs API
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left"> Tech Stack 🛠️</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40"/>
@@ -135,13 +135,13 @@ A full-stack web application for vinyl collectors to organize, discover, and sho
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
 
-<h2 align="left">📫 Contact & Links</h2>
+<h2 align="left">Contact & Links 📫</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre--Fonseca218-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-fonseca218)
 [![GitHub](https://img.shields.io/badge/GitHub-andref218-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andref218)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-andref218-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/andref218)
 
-<h2 align="left">🐍 GitHub Activity</h2>
+<h2 align="left">GitHub Activity 🐍</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
