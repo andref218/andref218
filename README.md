@@ -57,7 +57,7 @@ Full-Stack Development • AI Engineering
 
 <h2 align="left">Featured Projects 🚀 </h2>
 
-###  AI Document Assistant (RAG) 🤖
+###  AI Document Assistant (RAG)
 
 A Retrieval-Augmented Generation (RAG) application that enables users to chat with PDF documents using a local Large Language Model.
 
@@ -77,7 +77,7 @@ A Retrieval-Augmented Generation (RAG) application that enables users to chat wi
 
 ---
 
-### Llama 3.2 Customer Support Fine-Tuning 🦙
+### Llama 3.2 Customer Support Fine-Tuning
 
 An end-to-end LLM fine-tuning project that adapts **Meta Llama 3.2 3B Instruct** for customer support conversations using **QLoRA** and **PEFT**. The project covers dataset preparation, supervised fine-tuning, experiment tracking, evaluation, and LoRA adapter export for efficient inference.
 
@@ -98,7 +98,7 @@ An end-to-end LLM fine-tuning project that adapts **Meta Llama 3.2 3B Instruct**
 
 ---
 
-###  Vynilz 💿
+###  Vynilz
 
 A full-stack web application for vinyl collectors to organize, discover, and showcase their collections online.
 
