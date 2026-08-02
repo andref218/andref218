@@ -21,7 +21,7 @@ I'm a Software Developer passionate about <b>AI Engineering</b> and <b>Full-Stac
 <p>Outside of coding, I’m always learning, exploring new tools, looking for ways to improve both my technical skills and the overall quality of my work — or playing basketball when I need a break. 🤓</p>
 </p>
 
-Building intelligent applications with:
+Building AI applications with:
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Fine-Tuning
