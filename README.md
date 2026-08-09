@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋, I'm André</h1>
 
+<h3 align="left">
+Software Developer<br/>
+AI Engineering • Full-Stack Development
+</h3>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -35,12 +40,6 @@ Also experienced in:
 - React
 - Node.js
 - MongoDB
-
-<h3 align="left">
-Software Developer<br/>
-Full-Stack Development • AI Engineering
-</h3>
-
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=default)
 
