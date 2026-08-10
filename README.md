@@ -5,6 +5,19 @@ Software Developer<br/>
 AI Engineering • Full-Stack Development
 </h3>
 
+<p align="left">
+  <strong>Check out my Interactive 3D Portfolio with an AI Assistant:</strong>
+</p>
+
+<p align="left">
+  <a href="https://andref218.github.io/3d_portfolio" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🚀%20View%20Portfolio-2563EB?style=for-the-badge"
+      alt="View Portfolio"
+    />
+  </a>
+</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -42,17 +55,6 @@ Also experienced in:
 - MongoDB
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=default)
-
-<h2 align="left">Portfolio 🌐</h2>
-
-<p align="left">
-  <strong>Check out my Interactive 3D Portfolio: </strong> &nbsp; 
-  <a href="https://andref218.github.io/3d_portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
-  </a>
-</p>
-
-- All of my projects are available at [github.com/andref218](https://github.com/andref218) 
 
 <h2 align="left">Featured Projects 🚀 </h2>
 
