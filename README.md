@@ -10,10 +10,16 @@ AI Engineering • Full-Stack Development
 </p>
 
 <p align="left">
-  <a href="https://andref218.github.io/3d_portfolio" target="_blank">
+  <a href="https://andref218.github.io/3d_portfolio/" target="_blank">
     <img
       src="https://img.shields.io/badge/🚀%20View%20Portfolio-2563EB?style=for-the-badge"
       alt="View Portfolio"
+    />
+  </a>
+  <a href="https://github.com/andref218/3d_portfolio" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Repository"
     />
   </a>
 </p>
@@ -55,6 +61,8 @@ Also experienced in:
 - MongoDB
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andref218&theme=default)
+
+---
 
 <h2 align="left">Featured Projects 🚀 </h2>
 
