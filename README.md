@@ -9,7 +9,9 @@ AI Engineering • Full-Stack Development
   <strong>Explore my Interactive 3D Portfolio with a built-in AI Assistant:</strong>
 </p>
 
-<p align="center">
+<br>
+
+<p align="left">
   <a href="https://andref218.github.io/3d_portfolio/" target="_blank">
     <img
       src="https://img.shields.io/badge/🚀%20View%20Portfolio-2563EB?style=for-the-badge"
@@ -112,7 +114,7 @@ An end-to-end LLM fine-tuning project that adapts **Meta Llama 3.2 3B Instruct**
 A full-stack web application for vinyl collectors to organize, discover, and showcase their collections online.
 
   <a href="https://vynilz.com" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-Vynilz-1A8FD8?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Vynilz"   />
+      <img src="https://img.shields.io/badge/Live%20Demo-Vynilz-2563EB?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="Vynilz"   />
     </a>
      <a href="https://github.com/andref218/vynilz-showcase" target="_blank">
       <img src="https://img.shields.io/badge/Project%20Showcase-GitHub-181717?style=for-the-badge&logo=github" alt="Vynilz Showcase" />
