@@ -5,7 +5,7 @@ Software Developer<br/>
 AI Engineering • Full-Stack Development
 </h3>
 
-### ⚡ Currently Learning
+### ⚡ Currently Exploring
 - **n8n** — AI & Workflow Automation
 - AI Agents & Automation Workflows
 
