@@ -9,11 +9,25 @@ AI Engineering • Full-Stack Development
 - **n8n** — AI & Workflow Automation
 - AI Agents & Automation Workflows
 
+### 🔗 n8n Projects
+
+**AI Outbound Sales Automation**  
+AI-powered sales automation for prospecting, qualification, CRM, outreach, and demo booking.  
+<a href="https://github.com/andref218/ai_outbound_sales_automation" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+**Personal AI Command Center**  
+A personal AI command center for connecting agents, tools, memory, and automation workflows.  
+<a href="https://github.com/andref218/personal_ai_command_center" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+### 🚀 Featured Portfolio
+
 <p align="left">
   <strong>Explore my Interactive 3D Portfolio with a built-in AI Assistant:</strong>
 </p>
-
-<br>
 
 <p align="left">
   <a href="https://andref218.github.io/3d_portfolio/" target="_blank">
