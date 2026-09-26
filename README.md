@@ -11,7 +11,7 @@ AI Engineering • Full-Stack Development
 
 ### n8n Projects 🔗
 
-**AI Outbound Sales Automation**  
+**AI Sales Automation**  
 AI-powered sales automation for prospecting, qualification, CRM, outreach, and demo booking.  
 <a href="https://github.com/andref218/ai_outbound_sales_automation" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
