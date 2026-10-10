@@ -9,15 +9,24 @@ AI Engineering • Full-Stack Development
 - **n8n** — AI & Workflow Automation
 - AI Agents & Automation Workflows
 
-### n8n Projects 🔗
+<h3>
+  n8n Projects   
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="24" height="24" alt="n8n" />
+</h3>
 
-**AI Sales Automation**  
+**[AI Sales Automation](https://github.com/andref218/ai_outbound_sales_automation)**  
 AI-powered sales automation for prospecting, qualification, CRM, outreach, and demo booking.  
 <a href="https://github.com/andref218/ai_outbound_sales_automation" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-**Personal AI Command Center**  
+**[AI Customer Support Automation](https://github.com/andref218/ai_customer_support_automation)**  
+AI-powered customer support automation for knowledge retrieval, response validation, issue resolution, and human escalation.  
+<a href="https://github.com/andref218/ai_customer_support_automation" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+**[Personal AI Command Center](https://github.com/andref218/personal_ai_command_center)**  
 A personal AI command center for connecting agents, tools, memory, and automation workflows.  
 <a href="https://github.com/andref218/personal_ai_command_center" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
