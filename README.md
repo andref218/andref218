@@ -173,6 +173,19 @@ A full-stack web application for vinyl collectors to organize, discover, and sho
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
 
+<h2 align="left">AI & Automation 🤖</h2>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" alt="n8n" title="n8n"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" width="40" alt="OpenAI" title="OpenAI"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama&theme=dark" width="40" alt="Ollama" title="Ollama"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" alt="Hugging Face" title="Hugging Face"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pinecone&theme=dark" width="40" alt="Pinecone" title="Pinecone"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" width="40" alt="ChromaDB" title="ChromaDB"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase" title="Supabase"/>
+  <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="40" alt="Weights & Biases" title="Weights & Biases"/>
+</p>
+
 <h2 align="left">Contact & Links 📫</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre--Fonseca218-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-fonseca218)
