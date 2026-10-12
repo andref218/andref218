@@ -21,7 +21,7 @@ AI-powered sales automation for prospecting, qualification, CRM, outreach, and d
 </a>
 
 **[AI Customer Support Automation](https://github.com/andref218/ai_customer_support_automation)**  
-AI-powered customer support automation for knowledge retrieval, response validation, issue resolution, and human escalation.  
+RAG-powered AI customer support automation for knowledge retrieval, response validation, issue resolution, and human escalation.
 <a href="https://github.com/andref218/ai_customer_support_automation" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
