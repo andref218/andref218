@@ -16,7 +16,7 @@ Agentic AI • LLM Applications • Full-Stack Development
   <strong>Explore my Interactive 3D Portfolio with a built-in AI Assistant:</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://andref218.github.io/3d_portfolio/" target="_blank">
     <img
       src="https://img.shields.io/badge/🚀%20View%20Portfolio-2563EB?style=for-the-badge"
